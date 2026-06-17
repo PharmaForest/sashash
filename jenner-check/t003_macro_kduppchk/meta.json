@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_macro_kduppchk",
+  "source_file": "sashash/06_macros/kduppchk.sas",
+  "source_blob_sha": "c217bf68b6b222d10192f0c541e7430dbdd46a68",
+  "source_commit": "7658ddedf492a0411e8fb589358b727089ddcb3d",
+  "tier": "real_data",
+  "notes": "Caller for %kduppchk: inline duplicate-key detection on (subjid,visit); dupchk=1 set for the repeated S002/Baseline and S003/Week4 rows. The macro's designed WARNING:Dupp log lines are expected output."
+}
