@@ -1,0 +1,9 @@
+                                keycheck: exist_flag = Y when Name is enrolled in master                                
+
+ Name  exist_flag
+Alice  Y
+Mike   N
+Henry  Y
+Zelda  N
+Janet  Y
+

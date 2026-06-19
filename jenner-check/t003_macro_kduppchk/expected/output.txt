@@ -1,0 +1,12 @@
+                                 kduppchk: dupchk=1 marks repeated (subjid, visit) keys                                 
+
+subjid     visit  dupchk
+S001    Baseline       0
+S001    Week4          0
+S002    Baseline       0
+S002    Baseline       1
+S003    Baseline       0
+S003    Week4          0
+S003    Week4          1
+S004    Baseline       0
+

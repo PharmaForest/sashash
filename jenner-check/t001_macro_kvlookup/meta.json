@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_macro_kvlookup",
+  "source_file": "sashash/06_macros/kvlookup.sas",
+  "source_blob_sha": "da38859ee0b37c841bf9f50de0385e19997f9b24",
+  "source_commit": "7658ddedf492a0411e8fb589358b727089ddcb3d",
+  "tier": "real_data",
+  "notes": "Caller for %kvlookup: retrieves Age/Sex from a 10-row master keyed by Name into a 5-row transaction stream in one data step; absent key (Zelda) returns missing. Master shape mirrors the README sashelp.class example."
+}

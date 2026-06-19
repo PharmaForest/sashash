@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_macro_keycheck",
+  "source_file": "sashash/06_macros/keycheck.sas",
+  "source_blob_sha": "48763f20c8243c7bde91413bf6bda39047780330",
+  "source_commit": "7658ddedf492a0411e8fb589358b727089ddcb3d",
+  "tier": "real_data",
+  "notes": "Caller for %keycheck: sets exist_flag Y/N for each incoming Name against an 8-row enrolled master; Mike and Zelda flag N. Hash built once on _N_=1."
+}

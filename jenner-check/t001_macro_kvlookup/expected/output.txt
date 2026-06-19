@@ -1,0 +1,9 @@
+                                    kvlookup: Age/Sex retrieved from master by Name                                     
+
+ Name  y  sex  age
+Alice  .  F     13
+Henry  .  M     14
+Janet  .  F     15
+Zelda  .         .
+John   .  M     12
+
